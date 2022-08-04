@@ -1,6 +1,6 @@
-### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Minsik%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Minsik%20Kim&fontSize=90&animation=fadeIn&fontAlignY=20)
+### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsiks)](https://github.com/miniks/github-readme-transparent)
 
@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://capsule-render.vercel.app/api?
