@@ -1,9 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Minsik%20Kim&fontSize=90&animation=fadeIn&fontAlign=70&rotate=13&fontAlignY=25)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Minsik%20Kim&fontSize=90&animation=fadeIn&fontAlign=70)
 
-### Hi there 👋
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<h2> 🛠 Tech Stack 🛠 </h2>
+<div align=center> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsiks)](https://github.com/miniks/github-readme-transparent)
 
