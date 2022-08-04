@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsiks)](https://github.com/miniks/github-readme-transparent)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsiks)](https://github.com/minsiks/github-readme-transparent)
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://capsule-render.vercel.app/api?
