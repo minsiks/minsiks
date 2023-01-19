@@ -10,5 +10,5 @@
 
 
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsiks&show_icons=true&theme=dracula)](https://github.com/minsiks/github-readme-transparent)
+![Minsik Kim's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minsiks&show_icons=true&theme=merko&bg_color=00000000)
 
